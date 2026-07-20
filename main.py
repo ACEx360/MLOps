@@ -1,5 +1,6 @@
 def main():
-    print("Hello from mlops-assignment!")
+    message = "Hello from mlops-assignment!"
+    print(message)
 
 
 if __name__ == "__main__":

@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 
 
 def main():
-    # Load dataset
+    
     df = pd.read_csv("data/Titanic-Dataset.csv")
 
     print("Dataset Shape:", df.shape)
